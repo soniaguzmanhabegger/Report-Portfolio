@@ -1,1 +1,1 @@
-This report was created in PowerBI. Data was generated with ChatGPT. The command given was to create a CSV file for 3 restaurants in France. The report was created as an infographic to show all relevant insights in an imteractive report.
+Welcome to my personal Power BI portfolio repository! Here you will find a collection of Power BI projects and dashboards that demonstrate my skills and expertise in data visualization, business intelligence, and analytics using Power B
